@@ -1,0 +1,31 @@
+_repo: The-Old-Irish-World_53159
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Green, Alice Stopford
+    aliases:
+    - Green, Mrs. J. R.
+    - Green, A. S. (Alice Stopford)
+    - Stopford, Alice Sophia Amelia
+    birthdate: 1848
+    deathdate: 1929
+    gutenberg_agent_id: '37310'
+    url: http://www.gutenberg.org/2009/agents/37310
+    wikipedia: http://en.wikipedia.org/wiki/Alice_Stopford_Green
+description: ''
+gutenberg_issued: '2016-09-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53159'
+  lccn: '12024192'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Ireland -- Civilization'
+- !lcsh 'Ireland -- History'
+- GITenberg
+title: The Old Irish World
+url: http://www.gutenberg.org/ebooks/53159
